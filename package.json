@@ -1,0 +1,24 @@
+{
+  "name": "api-adopt-pet",
+  "version": "1.0.0",
+  "description": "is a api to control pets in adopt-pets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mrbanano/Api-adopt-pet.git"
+  },
+  "keywords": [
+    "pets",
+    "adopt",
+    "patitas"
+  ],
+  "author": "Alvaro Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mrbanano/Api-adopt-pet/issues"
+  },
+  "homepage": "https://github.com/Mrbanano/Api-adopt-pet#readme"
+}
